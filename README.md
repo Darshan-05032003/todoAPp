@@ -112,14 +112,11 @@ Things I want to add later:
 - Categories or tags
 - Dark mode maybe
 
-## License
 
-Free to use
 
 ## Author
 
-Made by [Your Name]
+Made by Darshan Sonawane
 
 ---
 
-This is my first Flutter project using BLoC. Feel free to give feedback!
